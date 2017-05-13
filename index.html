@@ -1,0 +1,57 @@
+<!-- click 'start' button to start the game
+
+show time remaining to answer the question
+
+build trivia questions array (30 questions???)  -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Shaolin Ask Kicking Trivia</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Alex+Brush|Ravi+Prakash|Calligraffitti|Droid+Sans|Macondo" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="wrapper"> 
+    <div id="gameTitle" class="myTitle">Shaolin Kick Ask Trivia</div>
+    <div><button type="button" id="startGame" class="btn">START</button></div>
+    <br>
+    <br>
+    <div id="display" class="myTimeDisplay"></div>
+
+
+<div id="theQuestion" class="myQuestTxt"></div>
+
+
+<div class="btnHelp">
+<div><button type="button" id="option0" class="btn myBtn"></button></div>
+<div><button type="button" id="option1" class="btn myBtn"></button></div>
+<div><button type="button" id="option2" class="btn myBtn"></button></div>
+<div><button type="button" id="option3" class="btn myBtn"></button></div>
+<div>
+
+
+
+<div id="message" class="myMessage"> </div>
+
+<div id="scoreTitle" class="myMessage">Your Score</div>
+<br>
+<div id="correctAns" class="myMessage">Your Score</div>
+<div id="wrongAns" class="myMessage">Your Score</div>
+<div id="unAns" class="myMessage">Your Score</div>
+<br>
+<div><button type="button" id="restart" class="btn">Start Over?</button></div>
+
+
+
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="trivia.js"></script>
+
+</html>

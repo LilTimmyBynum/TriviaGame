@@ -1,0 +1,75 @@
+body {
+    font-family: 'Ravi Prakash', cursive;
+    font-size: 18px;
+    line-height: 34px;
+    color: #000000; /*black*/
+    /*color: #FFFFFF;*/
+    /*background-image: url("../assets/shawBackground.jpg");*/
+
+    ;
+}
+
+.myTitle{
+    width:100%;
+    margin: 5px;
+    font-size: 64px;
+    height: 100px;
+    text-align:center;
+    padding-top: 30px;
+    background-color: #7FFFD4;  
+
+}
+
+
+.myBtn {
+    width:100%;
+    margin: 5px;
+    padding-left:0;
+    padding-right:0;
+    display:block;
+    text-align:center;
+    background-color: #7FFFD4; /*aquamarine*/
+
+
+}
+
+.myQuestTxt {
+    width:100%;
+    margin: 5px;
+    text-align:center;
+}
+
+
+.myMessage {
+    font-size: 42px;
+    width:100%;
+    margin: 5px;
+    text-align:center;
+}
+
+.myTimeDisplay {
+    font-size: 24px;
+    width:100%;
+    margin: 5px;
+    text-align:center;
+}
+
+.btnHelp {
+    width:100%;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
