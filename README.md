@@ -3,5 +3,5 @@ Shaolin trivia !!  A simple trivia game that can easily be expanded to new topic
 
 Technologies used:
 - HTML/CSS/Javascript
--JQuery
--Bootstrap
+- JQuery
+- Bootstrap
