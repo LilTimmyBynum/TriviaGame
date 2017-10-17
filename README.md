@@ -5,3 +5,5 @@ Technologies used:
 - HTML/CSS/Javascript
 - JQuery
 - Bootstrap
+
+This app can be seen in action using the link: https://liltimmybynum.github.io/TriviaGame/
